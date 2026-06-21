@@ -56,4 +56,3 @@ Every commit represents a step forward.
 
 ---
 
-Learning one lab at a time. Building one project at a time.
